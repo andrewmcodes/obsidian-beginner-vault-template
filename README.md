@@ -101,23 +101,6 @@ This vault does not come with any community plugins by default.
 
 ### [Daily notes](https://help.obsidian.md/Plugins/Daily+notes)
 
-#### Daily Note Template
-
-Create a new template titled `t_daily` under `_assets/templates`. Refer to the [Templates documentation](https://help.obsidian.md/Plugins/Templates) for more information about variables.
-
-```md
-# {{date}}
-
-## Notes
-
-
----
-
-#daily 
-```
-
-#### Settings
-
 | Setting                    | Value               |
 | -------------------------- | ------------------- |
 | New file location          | daily               |
