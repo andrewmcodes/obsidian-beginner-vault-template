@@ -65,8 +65,8 @@ I have modified some of the important hotkeys to better match VS Code's defaults
 | Quick switcher: Open quick switcher   | ⌘P          |
 | Split horizontally                    | ⌘\          |
 | Split vertically                      | ⌘⇧\         |
-| Swap line down                        | ⇧⌥↑         |
-| Swap line up                          | ⇧⌥↓         |
+| Swap line down                        | ⇧⌥↓         |
+| Swap line up                          | ⇧⌥↑         |
 
 ### Core plugins
 
