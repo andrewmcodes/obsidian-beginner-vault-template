@@ -60,7 +60,7 @@ I have modified some of the important hotkeys to better match VS Code's defaults
 | Command palette: Open command palette | ⌘⇧P         |
 | Delete current file                   | ⌘⇧Backspace |
 | Delete paragraph                      | ⌘⇧D         |
-| Edit file title                       | ⇧⌥T         |
+| Edit file title                       | ⌘⌥T         |
 | Focus on editor                       | ⌘1          |
 | Quick switcher: Open quick switcher   | ⌘P          |
 | Split horizontally                    | ⌘\          |
