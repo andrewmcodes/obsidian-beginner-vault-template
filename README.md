@@ -15,10 +15,10 @@ This template is intended for first time users of Obsidian.
 
 ## Folder Structure
 
- - `_assets`: project specific files and folders
-	 - `attachments`: this is where [attachment files](https://help.obsidian.md/How+to/Manage+attachments), like images, are stored
-	 - `templates`: this is where [template files](https://help.obsidian.md/Plugins/Templates) are stored
- - `daily`: [Daily Note](https://help.obsidian.md/Plugins/Daily+notes) storage
+- `_assets`: project specific files and folders
+  - `attachments`: this is where [attachment files](https://help.obsidian.md/How+to/Manage+attachments), like images, are stored
+  - `templates`: this is where [template files](https://help.obsidian.md/Plugins/Templates) are stored
+- `daily`: [Daily Note](https://help.obsidian.md/Plugins/Daily+notes) storage
 
 ## Settings
 
@@ -38,9 +38,9 @@ These are the settings that have been modified from the defaults.
 
 | Setting                              | Value                         |
 | ------------------------------------ | ----------------------------- |
-| Confirm file deletion                | Disabled                       |
+| Confirm file deletion                | Disabled                      |
 | Automatically update internal links  | Enabled                       |
-| Detect all file extensions           | Enabled                      |
+| Detect all file extensions           | Enabled                       |
 | Default location for new attachments | In the folder specified below |
 | Attachment folder path               | `_assets/attachments`         |
 
@@ -60,7 +60,7 @@ I have modified some of the important hotkeys to better match VS Code's defaults
 | Command palette: Open command palette | ⌘⇧P         |
 | Delete current file                   | ⌘⇧Backspace |
 | Delete paragraph                      | ⌘⇧D         |
-| Edit file title                       | ⇧⌥T         | 
+| Edit file title                       | ⇧⌥T         |
 | Focus on editor                       | ⌘1          |
 | Quick switcher: Open quick switcher   | ⌘P          |
 | Split horizontally                    | ⌘\          |
@@ -101,14 +101,14 @@ This vault does not come with any community plugins by default.
 
 ### [Daily notes](https://help.obsidian.md/Plugins/Daily+notes)
 
-| Setting                    | Value               |
-| -------------------------- | ------------------- |
-| New file location          | daily               |
+| Setting                    | Value                       |
+| -------------------------- | --------------------------- |
+| New file location          | daily                       |
 | Template file location     | `_assets/templates/t_daily` |
-| Open daily note on startup | Enabled             | 
+| Open daily note on startup | Enabled                     |
 
 #### Hotkeys
 
-| Description                           | Shortcut    |
-| ------------------------------------- | ----------- |
-| Templates: Insert template            | ⌘⌥I         | 
+| Description                | Shortcut |
+| -------------------------- | -------- |
+| Templates: Insert template | ⌘⌥I      |

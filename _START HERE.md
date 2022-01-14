@@ -1,15 +1,15 @@
 # Welcome
 
-Welcome to your Obsidian vault. 
+Welcome to your Obsidian vault.
 
 ## Important Commands
 
 - New note: `⌘N`
 - Open command palette: `⌘⇧P`
-- Open quick switcher: `⌘P` 
+- Open quick switcher: `⌘P`
 - Open settings: `⌘,`
 - Open Wikilink: `⌘+Click` [[README]] to navigate to that note with the mouse
-- Delete a note: `⌘⇧Backspace` 
+- Delete a note: `⌘⇧Backspace`
 
 Go to `Settings->Hotkeys` to see all hotkeys and add your own.
 
@@ -26,11 +26,11 @@ I would suggest starting with these documentation pages:
 
 The final step is to clean up some of the project specific files from GitHub:
 
-- [ ]  _Optional_ Delete from git
-	-  `rm -rf .git`
+- [ ] _Optional_ Delete from git
+  - `rm -rf .git`
 - [ ] Delete GitHub folder
-	-  `rm -rf .github`
-- [ ] Delete [[LICENSE]] 
+  - `rm -rf .github`
+- [ ] Delete [[LICENSE]]
 - [ ] Delete [[README]]
 - [ ] Delete [[CHANGELOG]]
 - [ ] Delete `version.txt`
