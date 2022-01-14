@@ -1,0 +1,8 @@
+# {{date}}
+
+## Notes
+
+
+---
+
+#daily 

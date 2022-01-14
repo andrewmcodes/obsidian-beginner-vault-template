@@ -1,0 +1,23 @@
+[
+  "file-explorer",
+  "global-search",
+  "switcher",
+  "graph",
+  "backlink",
+  "outgoing-link",
+  "tag-pane",
+  "page-preview",
+  "daily-notes",
+  "templates",
+  "note-composer",
+  "command-palette",
+  "slash-command",
+  "editor-status",
+  "starred",
+  "outline",
+  "word-count",
+  "audio-recorder",
+  "open-with-default-app",
+  "workspaces",
+  "file-recovery"
+]
