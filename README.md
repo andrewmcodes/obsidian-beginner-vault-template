@@ -7,7 +7,7 @@ This template is intended for first time users of Obsidian.
 ## Getting Started
 
 - [Download and install Obsidian](https://obsidian.md/download)
-- [Use this template](https://github.com/andrewmcodes/simple-obsidian-vault-template/generate) and clone the repo
+- [Use this template](https://github.com/andrewmcodes/obsidian-beginner-vault-template/generate) and clone the repo
 - Open Obsidian
 - Click "Open" next to the "Open folder as vault" label
 - Select the folder you cloned the repo to
