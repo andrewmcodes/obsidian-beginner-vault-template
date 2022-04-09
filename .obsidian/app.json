@@ -5,7 +5,7 @@
   "foldHeading": true,
   "foldIndent": true,
   "tabSize": 2,
-  "promptDelete": false,
+  "promptDelete": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "_assets/attachments"

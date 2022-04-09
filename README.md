@@ -38,7 +38,7 @@ These are the settings that have been modified from the defaults.
 
 | Setting                              | Value                         |
 | ------------------------------------ | ----------------------------- |
-| Confirm file deletion                | Disabled                      |
+| Confirm file deletion                | Enabled (Asks first time)                     |
 | Automatically update internal links  | Enabled                       |
 | Detect all file extensions           | Enabled                       |
 | Default location for new attachments | In the folder specified below |
@@ -57,9 +57,10 @@ I have modified some of the important hotkeys to better match VS Code's defaults
 
 | Description                           | Shortcut    |
 | ------------------------------------- | ----------- |
+| Add internal link                     | ⌘K          |
 | Command palette: Open command palette | ⌘⇧P         |
 | Delete current file                   | ⌘⇧Backspace |
-| Delete paragraph                      | ⌘⇧D         |
+| Delete paragraph                      | ⌥Backspace  |
 | Edit file title                       | ⌘⌥T         |
 | Focus on editor                       | ⌘1          |
 | Quick switcher: Open quick switcher   | ⌘P          |
@@ -67,6 +68,11 @@ I have modified some of the important hotkeys to better match VS Code's defaults
 | Split vertically                      | ⌘⇧\         |
 | Swap line down                        | ⇧⌥↓         |
 | Swap line up                          | ⇧⌥↑         |
+| Add Markdown link                     | ⌘⌥K         |
+| Open in default app                   | ⌘⌥D         |
+| Show in system explorer               | ⌘⌥R         |
+| Toggle Left Sidebar                   | ⌘⇧E         |
+|                                       |             |
 
 ### Core plugins
 
@@ -81,7 +87,6 @@ I have modified some of the important hotkeys to better match VS Code's defaults
 | [Markdown format importer](https://help.obsidian.md/Plugins/Markdown+format+converter) | Disabled |
 | [Outline](https://help.obsidian.md/Plugins/Outline)                                    | Enabled  |
 | [Audio recorder](https://help.obsidian.md/Plugins/Audio+recorder)                      | Enabled  |
-| [Workspaces](https://help.obsidian.md/Plugins/Workspaces)                              | Enabled  |
 
 ### Community Plugins
 
