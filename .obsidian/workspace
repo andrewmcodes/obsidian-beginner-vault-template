@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "fcf29a2103662d42",
+        "id": "c7fe10af3a3d82b0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_START HERE.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_START HERE.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_START HERE.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_START HERE.md"
+                "file": "README.md"
               }
             }
           }
@@ -128,14 +128,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fcf29a2103662d42",
+  "active": "c7fe10af3a3d82b0",
   "lastOpenFiles": [
-    "_START HERE.md",
-    "daily/2022-01-13.md",
     "README.md",
+    "_START HERE.md",
     "CHANGELOG.md",
-    "START HERE.md",
     "LICENSE.md",
-    "_assets/templates/t_daily.md"
+    "_assets/templates/t_daily.md",
+    "daily/2022-04-09.md",
+    "daily/2022-01-13.md",
+    "START HERE.md"
   ]
 }

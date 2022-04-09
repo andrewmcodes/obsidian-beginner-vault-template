@@ -2,14 +2,13 @@
 
 Welcome to your Obsidian vault.
 
-## Important Commands
-
-- New note: `⌘N`
-- Open command palette: `⌘⇧P`
-- Open quick switcher: `⌘P`
-- Open settings: `⌘,`
-- Open Wikilink: `⌘+Click` [[README]] to navigate to that note with the mouse
-- Delete a note: `⌘⇧Backspace`
+> [!IMPORTANT] Key Commands
+> - New note: `⌘N`
+> - Open command palette: `⌘⇧P`
+> - Open quick switcher: `⌘P`
+> - Open settings: `⌘,`
+> - Open Wikilink: `⌘+Click` [[README]] to navigate to that note with the mouse
+> - Delete a note: `⌘⇧Backspace`
 
 Go to `Settings->Hotkeys` to see all hotkeys and add your own.
 
