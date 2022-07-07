@@ -7,12 +7,8 @@
         "id": "d8878c909ec98bf7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "_START HERE.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_START HERE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_START HERE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_START HERE.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,10 +122,11 @@
   },
   "active": "d8878c909ec98bf7",
   "lastOpenFiles": [
+    "daily/2022-07-07.md",
+    "LICENSE.md",
+    "CHANGELOG.md",
     "_START HERE.md",
     "README.md",
-    "CHANGELOG.md",
-    "LICENSE.md",
     "_assets/templates/t_daily.md",
     "daily/2022-04-09.md",
     "daily/2022-01-13.md",
