@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/andrewmcodes/obsidian-beginner-vault-template/compare/v1.1.0...v1.2.0) (2022-07-07)
+
+
+### Features
+
+* add pinned command to command palette ([1fb6525](https://github.com/andrewmcodes/obsidian-beginner-vault-template/commit/1fb6525379c55b39f94821a1af8381df7e03db53))
+
 ## [1.1.0](https://github.com/andrewmcodes/obsidian-beginner-vault-template/compare/v1.0.0...v1.1.0) (2022-04-09)
 
 
