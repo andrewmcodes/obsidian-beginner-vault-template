@@ -1,3 +1,5 @@
+![2023-03-22T1722-Obsidian@2x](https://user-images.githubusercontent.com/18423853/227069885-83a9a90a-36a9-47c0-86fe-a7a124030f4b.png)
+
 # Obsidian Beginner Vault Template
 
 A template for a minimal [Obsidian vault](https://obsidian.md/), focused on setting good defaults and VS Code-like hotkeys. If you want to try Obsidian for the first time or just get a barebones template, you're in the right place.
