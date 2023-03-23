@@ -4,9 +4,9 @@
   "switcher",
   "graph",
   "backlink",
+  "canvas",
   "outgoing-link",
   "tag-pane",
-  "page-preview",
   "daily-notes",
   "templates",
   "note-composer",
@@ -16,6 +16,5 @@
   "starred",
   "outline",
   "word-count",
-  "audio-recorder",
   "file-recovery"
 ]

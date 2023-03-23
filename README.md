@@ -1,100 +1,101 @@
+![2023-03-22T1722-Obsidian@2x](https://user-images.githubusercontent.com/18423853/227069885-83a9a90a-36a9-47c0-86fe-a7a124030f4b.png)
+
 # Obsidian Beginner Vault Template
 
-A minimal template for your first [Obsidian vault](https://obsidian.md) aimed at setting good defaults.
-
-This template is intended for first time users of Obsidian.
+A template for a minimal [Obsidian vault](https://obsidian.md/), focused on setting good defaults and VS Code-like hotkeys. If you want to try Obsidian for the first time or just get a barebones template, you're in the right place.
 
 ## Getting Started
 
-- [Download and install Obsidian](https://obsidian.md/download)
-- [Use this template](https://github.com/andrewmcodes/obsidian-beginner-vault-template/generate) and clone the repo
-- Open Obsidian
-- Click "Open" next to the "Open folder as vault" label
-- Select the folder you cloned the repo to
-- open `_START HERE.md` and follow the instructions
+To use this template, follow these steps:
+
+1. Download and install Obsidian from [obsidian.md/download](https://obsidian.md/download).
+2. Use this template by clicking the ["Use this template"](https://github.com/andrewmcodes/obsidian-beginner-vault-template/generate) button on this page and cloning the repo.
+3. Open Obsidian.
+4. Click "Open" next to the "Open folder as vault" label.
+5. Select the folder you cloned the repo to.
+6. Open `GETTING STARTED.md` and follow the instructions.
 
 ## Folder Structure
 
-- `_assets`: project specific files and folders
-  - `attachments`: this is where [attachment files](https://help.obsidian.md/How+to/Manage+attachments), like images, are stored
-  - `templates`: this is where [template files](https://help.obsidian.md/Plugins/Templates) are stored
-- `daily`: [Daily Note](https://help.obsidian.md/Plugins/Daily+notes) storage
+The template vault has the following folder structure:
+
+- `_assets`: this folder contains project-specific files and folders.
+  - `attachments`: this is where attachment files like images are stored.
+  - `templates`: this is where template files are stored.
+- `daily`: this folder is used for storing daily notes.
 
 ## Settings
 
-These are the settings that have been modified from the defaults.
+This section describes the settings that have been modified from the default Obsidian settings.
 
 ### Editor
 
-| Setting          | Value   |
-| ---------------- | ------- |
-| Show frontmatter | Enabled |
-| Fold heading     | Enabled |
-| Fold indent      | Enabled |
-| Use tabs         | Enabled |
-| Tab size         | 2       |
+The following table lists the editor settings that have been modified:
+
+| Setting          | Value |
+| ---------------- | ----- |
+| Show frontmatter | true  |
+| Use tabs         | false |
 
 ### Files & Links
 
+> **Warning**
+> If you are following along instead of using the template, make sure you have created the default folders listed above.
+
+The following table lists the files and links settings that have been modified:
+
 | Setting                              | Value                         |
 | ------------------------------------ | ----------------------------- |
-| Confirm file deletion                | Enabled (Asks first time)                     |
-| Automatically update internal links  | Enabled                       |
-| Detect all file extensions           | Enabled                       |
+| Automatically update internal links  | true                          |
+| Detect all file extensions           | true                          |
 | Default location for new attachments | In the folder specified below |
 | Attachment folder path               | `_assets/attachments`         |
 
 ### Appearance
 
+The following table lists the appearance settings that have been modified:
+
 | Setting            | Value   |
 | ------------------ | ------- |
-| Translucent window | Enabled |
+| Accent color       | #6e56cf |
 | Font size          | 15      |
+| Translucent window | true    |
 
 ### Hotkeys
 
-I have modified some of the important hotkeys to better match VS Code's defaults since that is the text editor that I am most familiar with. Click the `Restore default` icon if you'd like to revert a specific hotkey to Obsidian's default hotkeys.
+The following table lists the modified hotkeys:
 
 | Description                           | Shortcut    |
 | ------------------------------------- | ----------- |
 | Add internal link                     | ⌘K          |
 | Command palette: Open command palette | ⌘⇧P         |
 | Delete current file                   | ⌘⇧Backspace |
-| Delete paragraph                      | ⌥Backspace  |
-| Edit file title                       | ⌘⌥T         |
-| Focus on editor                       | ⌘1          |
+| Templates: Insert Template            | ⌘⌥I         |
 | Quick switcher: Open quick switcher   | ⌘P          |
-| Split horizontally                    | ⌘\          |
-| Split vertically                      | ⌘⇧\         |
-| Swap line down                        | ⇧⌥↓         |
-| Swap line up                          | ⇧⌥↑         |
+| Split right                           | ⌘\          |
+| Split down                            | ⌘⇧\         |
+| Move line down                        | ⌥↓          |
+| Move line up                          | ⌥↑          |
 | Add Markdown link                     | ⌘⌥K         |
-| Open in default app                   | ⌘⌥D         |
-| Show in system explorer               | ⌘⌥R         |
-| Toggle Left Sidebar                   | ⌘⇧E         |
-|                                       |             |
+| Open in default app                   | ⌃D          |
+| Reveal in Finder                      | ⌃R          |
+| Toggle Left Sidebar                   | ⌘E          |
+| Toggle Right Sidebar                  | ⌘⇧E         |
+| Toggle Reading View                   | ⌃V          |
 
-### Core plugins
+### Core Plugins
 
-| Plugin                                                                                 | Value    |
-| -------------------------------------------------------------------------------------- | -------- |
-| [Outgoing Links](https://help.obsidian.md/Plugins/Outgoing+links)                      | Enabled  |
-| [Tag pane](https://help.obsidian.md/Plugins/Tag+pane)                                  | Enabled  |
-| [Daily notes](https://help.obsidian.md/Plugins/Daily+notes)                            | Enabled  |
-| [Templates](https://help.obsidian.md/Plugins/Templates)                                | Enabled  |
-| Slash commands                                                                         | Enabled  |
-| [Starred](https://help.obsidian.md/Plugins/Starred+notes)                              | Enabled  |
-| [Markdown format importer](https://help.obsidian.md/Plugins/Markdown+format+converter) | Disabled |
-| [Outline](https://help.obsidian.md/Plugins/Outline)                                    | Enabled  |
-| [Audio recorder](https://help.obsidian.md/Plugins/Audio+recorder)                      | Enabled  |
+The following core plugins are toggled by default in this template:
+
+| Plugin           | Value |
+| ---------------- | ----- |
+| Format converter | false |
+| Page preview     | false |
+| Slash commands   | true  |
 
 ### Community Plugins
 
-This vault does not come with any community plugins by default.
-
-| Setting   | Value    |
-| --------- | -------- |
-| Safe mode | Disabled |
+This vault does not come with any community plugins by default. You will have to disable safe mode in order to use them when you open the plugins settings menu.
 
 ## Core Plugin Options
 
@@ -110,10 +111,6 @@ This vault does not come with any community plugins by default.
 | -------------------------- | --------------------------- |
 | New file location          | daily                       |
 | Template file location     | `_assets/templates/t_daily` |
-| Open daily note on startup | Enabled                     |
+| Open daily note on startup | true                        |
 
-#### Hotkeys
-
-| Description                | Shortcut |
-| -------------------------- | -------- |
-| Templates: Insert template | ⌘⌥I      |
+I hope this template helps you get started with Obsidian and provides a good base for customizing your own Obsidian vault.
