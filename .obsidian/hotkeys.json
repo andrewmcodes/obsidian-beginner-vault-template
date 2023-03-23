@@ -1,4 +1,12 @@
 {
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "K"
+    }
+  ],
   "command-palette:open": [
     {
       "modifiers": [
@@ -17,32 +25,15 @@
       "key": "Backspace"
     }
   ],
-  "editor:delete-paragraph": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "Backspace"
-    }
-  ],
-  "workspace:edit-file-title": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "editor:focus": [
+  "switcher:open": [
     {
       "modifiers": [
         "Mod"
       ],
-      "key": "1"
+      "key": "P"
     }
   ],
-  "workspace:split-horizontal": [
+  "workspace:split-vertical": [
     {
       "modifiers": [
         "Mod"
@@ -50,7 +41,7 @@
       "key": "\\"
     }
   ],
-  "workspace:split-vertical": [
+  "workspace:split-horizontal": [
     {
       "modifiers": [
         "Mod",
@@ -62,8 +53,7 @@
   "editor:swap-line-down": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "ArrowDown"
     }
@@ -71,18 +61,9 @@
   "editor:swap-line-up": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Alt"
       ],
       "key": "ArrowUp"
-    }
-  ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "K"
     }
   ],
   "editor:insert-link": [
@@ -94,19 +75,10 @@
       "key": "K"
     }
   ],
-  "switcher:open": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "open-with-default-app:open": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Ctrl"
       ],
       "key": "D"
     }
@@ -114,15 +86,20 @@
   "open-with-default-app:show": [
     {
       "modifiers": [
-        "Alt",
-        "Mod"
+        "Ctrl"
       ],
       "key": "R"
     }
   ],
-  "editor:unfold-all": [],
-  "workspace:toggle-pin": [],
   "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "app:toggle-right-sidebar": [
     {
       "modifiers": [
         "Mod",
@@ -131,13 +108,21 @@
       "key": "E"
     }
   ],
-  "editor:toggle-fold": [],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "V"
+    }
+  ],
   "insert-template": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": ";"
+      "key": "I"
     }
   ]
 }

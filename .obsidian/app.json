@@ -1,11 +1,7 @@
 {
-  "legacyEditor": false,
-  "livePreview": true,
   "showFrontmatter": true,
-  "foldHeading": true,
-  "foldIndent": true,
-  "tabSize": 2,
-  "promptDelete": true,
+  "useTab": false,
+  "tabSize": 4,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "_assets/attachments"
