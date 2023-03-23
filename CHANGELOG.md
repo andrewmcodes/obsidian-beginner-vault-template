@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/andrewmcodes/obsidian-beginner-vault-template/compare/v1.2.0...v2.0.0) (2023-03-23)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update vault based on changes in Obsidian v1.1 ([#6](https://github.com/andrewmcodes/obsidian-beginner-vault-template/issues/6))
+
+### Features
+
+* Update vault based on changes in Obsidian v1.1 ([#6](https://github.com/andrewmcodes/obsidian-beginner-vault-template/issues/6)) ([ad0a57b](https://github.com/andrewmcodes/obsidian-beginner-vault-template/commit/ad0a57b9de287dce2077d3316ddf39fd7af60d80))
+
 ## [1.2.0](https://github.com/andrewmcodes/obsidian-beginner-vault-template/compare/v1.1.0...v1.2.0) (2022-07-07)
 
 
