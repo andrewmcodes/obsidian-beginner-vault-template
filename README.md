@@ -92,6 +92,8 @@ The following core plugins are toggled by default in this template:
 | Format converter | false |
 | Page preview     | false |
 | Slash commands   | true  |
+| Bookmarks        | true  |
+| Properties       | true  |
 
 ### Community Plugins
 
