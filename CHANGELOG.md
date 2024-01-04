@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/andrewmcodes/obsidian-beginner-vault-template/compare/v2.0.0...v2.1.0) (2024-01-04)
+
+
+### Features
+
+* enable properties and bookmarks plugins ([6b31f3d](https://github.com/andrewmcodes/obsidian-beginner-vault-template/commit/6b31f3ddf39cb23a7820cb97c237d2a894084058))
+
 ## [2.0.0](https://github.com/andrewmcodes/obsidian-beginner-vault-template/compare/v1.2.0...v2.0.0) (2023-03-23)
 
 
