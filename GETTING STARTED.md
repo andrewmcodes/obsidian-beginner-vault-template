@@ -1,16 +1,21 @@
+---
+aliases:
+  - Home
+processed: false
+---
+
 > 👋 Welcome to your Obsidian vault
 
 ## Cleanup Tasks
 
-The final step is to clean up some of the project specific files from GitHub.
+The final step is to clean up some of the project specific files and make this vault your own!
 
-### Automagically
-
-Run the following command:
-
-```bash
-rm -rf .github LICENSE README.md CHANGELOG.md version.txt
-```
+> [!important] Snippet
+> Run the following command in your terminal from the root of the vault:
+>
+> ```shell
+> rm -rf .github LICENSE README.md CHANGELOG.md version.txt
+> ```
 
 ### Manual
 
@@ -23,7 +28,8 @@ rm -rf .github LICENSE README.md CHANGELOG.md version.txt
 ## Hotkeys
 
 > [!TODO]
-> Go to `Settings->Hotkeys` to see all hotkeys and add your own.
+>
+> - [ ] #task Go to `Settings->Hotkeys` to see all hotkeys and add your own.
 
 ### Basics
 
